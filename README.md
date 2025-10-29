@@ -9,3 +9,5 @@ I repot finns följande:
 **add-gh-actions-workflows.md** -> Instruktioner för att lägga till Github Actions
 
 **add-branch-protection.md** -> Instruktioner för att lägga till branch protection för att undvika merge från PRs som inte gått igenom tester.
+
+This is a small change to be able to push to github
